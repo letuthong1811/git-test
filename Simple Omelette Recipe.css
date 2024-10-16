@@ -1,0 +1,25 @@
+font-family
+body {
+    background-color: white;
+}
+
+#subtitle {
+    color: brown;
+}
+
+#brown-list {
+    color:brown;
+}
+
+#Preparation-time {
+    background-color: rebeccapurple;
+
+}
+
+#purple-list {
+    color: rebeccapurple;
+}
+
+div {
+    text-align: center;
+}
